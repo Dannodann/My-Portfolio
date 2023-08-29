@@ -1,0 +1,9 @@
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+  }
+
+  body{
+    background: radial-gradient(circle, #b1f5ff, rgb(250, 250, 250))
+  }
